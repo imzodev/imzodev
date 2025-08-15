@@ -35,7 +35,6 @@ On my YouTube channel, I explore how to leverage AI tools and techniques to stre
 ---
 
 ### 📫 Let's Connect!
-*Replace the links with your actual profile URLs.*
 
 <p align="left">
   <a href="https://www.youtube.com/@ImzoDev" target="_blank">
